@@ -7,11 +7,16 @@ the report produced was to give insights and highlight key issues for audit
 
 Some factors considered:
 
-The most recent 2 years of data is what most stakeholders are interested in
-The ability to see status changes and when they happened
-Complaints broken down by the dimensions
-Client Satisfaction
-Worst offending brokers
+* The most recent 2 years of data is what most stakeholders are interested in
+
+* The ability to see status changes and when they happened
+
+* Complaints broken down by the dimensions
+
+* Client Satisfaction
+
+* Worst offending brokers
+
 
 
 
